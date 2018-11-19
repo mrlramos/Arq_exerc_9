@@ -1,2 +1,2 @@
 # example-service
-A simple project to be used in the software architecture module
+Um projeto simples para ser usado no módulo de arquitetura de software
